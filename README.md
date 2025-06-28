@@ -69,12 +69,6 @@ Sample test images are provided in the `test_images` folder. Feel free to use th
   - L5: **Magenta**
   - S1: **Yellow**
 
----
-
-## **For Help or Queries**
-Feel free to reach out for any assistance:
-- **Email**: [k.gokulappaduraikjgv@gmail.com](mailto:k.gokulappaduraikjgv@gmail.com)
-- **Phone/WhatsApp**: +91 9025421765
 
 ---
 
